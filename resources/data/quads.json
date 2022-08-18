@@ -1,0 +1,124 @@
+{
+  "quads": [
+    {
+      "manufacturer": "Parrot",
+      "model": "Anafi",
+      "maxFlightTime": "25min",
+      "charge": "0%"
+    },
+    {
+      "manufacturer": "Yuneec",
+      "model": "Breeze",
+      "maxFlightTime": "22min",
+      "charge": "100%"
+    },
+    {
+      "manufacturer": "Cheerson",
+      "model": "CX-STARS",
+      "maxFlightTime": "34min",
+      "charge": "98%"
+    },
+    {
+      "manufacturer": "Cheerson",
+      "model": "CX-32W",
+      "maxFlightTime": "7min",
+      "charge": "72%"
+    },
+    {
+      "manufacturer": "Cheerson",
+      "model": "CX-20",
+      "maxFlightTime": "15min",
+      "charge": "2%"
+    },
+    {
+      "manufacturer": "Blade",
+      "model": "Nano QX",
+      "maxFlightTime": "28min",
+      "charge": "52%"
+    },
+    {
+      "manufacturer": "3DR",
+      "model": "Solo",
+      "maxFlightTime": "20min",
+      "charge": "60%"
+    },
+    {
+      "manufacturer": "DJI",
+      "model": "Mavic 2",
+      "maxFlightTime": "31min",
+      "charge": "52%"
+    },
+    {
+      "manufacturer": "DJI",
+      "model": "Spark",
+      "maxFlightTime": "16min",
+      "charge": "100%"
+    },
+    {
+      "manufacturer": "DJI",
+      "model": "Phantom 4",
+      "maxFlightTime": "28min",
+      "charge": "93%"
+    },
+    {
+      "manufacturer": "Halo",
+      "model": "Drone Pro",
+      "maxFlightTime": "45min",
+      "charge": "80%"
+    },
+    {
+      "manufacturer": "Halo",
+      "model": "Stealth Pro",
+      "maxFlightTime": "22min",
+      "charge": "93%"
+    },
+    {
+      "manufacturer": "JJRC",
+      "model": "H78G",
+      "maxFlightTime": "15min",
+      "charge": "93%"
+    },
+    {
+      "manufacturer": "JJRC",
+      "model": "H66",
+      "maxFlightTime": "6min",
+      "charge": "3%"
+    },
+    {
+      "manufacturer": "JJRC",
+      "model": "X7",
+      "maxFlightTime": "23min",
+      "charge": "23%"
+    },
+    {
+      "manufacturer": "Walkera",
+      "model": "RODEO F110",
+      "maxFlightTime": "27min",
+      "charge": "70%"
+    },
+    {
+      "manufacturer": "Walkera",
+      "model": "RODEO F150",
+      "maxFlightTime": "17min",
+      "charge": "93%"
+    },
+    {
+      "manufacturer": "Walkera",
+      "model": "Phantom4",
+      "maxFlightTime": "28min",
+      "charge": "93%"
+    },
+    {
+      "manufacturer": "JJRC",
+      "model": "H42WH",
+      "maxFlightTime": "15min",
+      "charge": "93%"
+    },
+    {
+      "manufacturer": "JJRC",
+      "model": "H40WH",
+      "maxFlightTime": "18min",
+      "charge": "93%"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+.dashboard-controls {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 40%;
+
+  &__landing-section {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+}

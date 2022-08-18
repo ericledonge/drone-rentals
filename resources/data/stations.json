@@ -1,0 +1,19 @@
+{
+  "stations": [
+    {
+      "id": "0",
+      "name": "Westminster",
+      "maxCapacity": "10"
+    },
+    {
+      "id": "1",
+      "name": "Camden",
+      "maxCapacity": "10"
+    },
+    {
+      "id": "2",
+      "name": "Greenwich",
+      "maxCapacity": "10"
+    }
+  ]
+}
