@@ -4,7 +4,7 @@ to start the server: `npm dev`
 
 to test: `npm test`
 
-# Ubisoft Club Mobile front-end test
+# Front-end test
 
 Please read and understand the following situation and then represent it by a small _React_ based application. You have one week to deliver your project including source code, npm scripts, and documentation explaining the procedure to compile and execute the application as well as your tests.
 
